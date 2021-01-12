@@ -26,7 +26,9 @@ En nettoyant le fichier produit par ce premier script, et qui contenait plus de 
 | Randy Hillier          | Ontario      | Lanark--Frontenac--Kingston                  | Indépendant               | RandyHillier   |
 | Greg Ottenbreit        | Saskatchewan | Yorkton                                      | Saskatchewan Party        | GregOttenbreit |
 
-Je dis bien **potentiellement**, car après que le compte au nom du [chef conservateur Erin O'Toole](https://parler.com/profile/erinotoole) est devenu inaccessible en soirée, dimanche, j'ai posté [ceci sur Facebook](https://www.facebook.com/jhroy/posts/10157827575106218). Or, il s'avère que le compte n'est pas authentique, [selon l'attachée de presse de M. O'Toole](https://twitter.com/Melanie_Paradis/status/1348077649743278080). J'ai donc rayé la ligne sur M. O'Toole ci-dessous. Si vous consultez la capture d'écran de la cache de Google pour le compte en question ([capture de la cache de Google effectuée le 11 janvier]()), vous constaterez que le contenu reprend les messages diffusés sur d'autres réseaux sociaux du chef conservateur et que si le compte n'est pas authentique, ce n'était pas un pastiche destiné à se moquer de lui.
+Je dis bien **potentiellement**, car après que le compte au nom du [chef conservateur Erin O'Toole](https://parler.com/profile/erinotoole) est devenu inaccessible en soirée, dimanche, j'ai posté [ceci sur Facebook](https://www.facebook.com/jhroy/posts/10157827575106218). Or, il s'avère que le compte n'est pas authentique, [selon l'attachée de presse de M. O'Toole](https://twitter.com/Melanie_Paradis/status/1348077649743278080). J'ai donc rayé la ligne sur M. O'Toole ci-dessous. Si vous consultez la capture d'écran de la cache de Google pour le compte en question ([capture de la cache de Google effectuée le 11 janvier](images/Screenshot_2021-01-11--Parler-Erin O’Toole.png)), vous constaterez que le contenu reprend les messages diffusés sur d'autres réseaux sociaux du chef conservateur et que si le compte n'est pas authentique, ce n'était pas un pastiche destiné à se moquer de lui.
+
+![](images/logoradioquebec.png)
 
 ### Radio-Québec
 
@@ -40,3 +42,4 @@ Le script produit un fichier csv avec les nom, pseudonyme, biographie, *id* Parl
 
 En consultant la date d'adhésion des abonnés de Radio-Québec, on constate qu'il y a eu une véritable ruée sur Parler depuis le début de 2021. Le compte de M. Cossette-Trudel a gagné plus de 11&nbsp;000 abonnés seulement dans les 10 premiers jours de l'année! Le nombre de personnes qui le suivent a presque doublé, passant de 13&nbsp;877 à 24&nbsp;384 entre le 31 décembre 2020 et le 10 janvier 2021 vers 15h.
 
+![](images/radioquebec-croissance.png)
