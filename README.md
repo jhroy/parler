@@ -4,9 +4,9 @@ Le 9 janvier 2021, moins de 24 heures avant que le réseau social [Parler](https
 
 ### Élus canadiens
 
-J'ai d'abord utilisé la base de données [Represent, d'Open North](https://represent.opennorth.ca/) qui contient les noms de tous les élus de toutes les législatures canadiennes (les Communes et toutes les assemblées législatives provinciales). En réunissant les noms et partis de tous les élus, j'ai confectionné le fichier [**tousElus.csv**]().
+J'ai d'abord utilisé la base de données [Represent, d'Open North](https://represent.opennorth.ca/) qui contient les noms de tous les élus de toutes les législatures canadiennes (les Communes et toutes les assemblées législatives provinciales). En réunissant les noms et partis de tous les élus, j'ai confectionné le fichier [**tousElus.csv**](tousElus.csv).
 
-En me servant d'une bibliothèque python appelée [parler-api](https://gitlab.com/coffeemaninc/parler-api), j'ai rédigé un premier script qui vérifiait si les noms des élus se trouvaient: [**parlotte1.py**]()
+En me servant d'une bibliothèque python appelée [parler-api](https://gitlab.com/coffeemaninc/parler-api), j'ai rédigé un premier script qui vérifiait si les noms des élus se trouvaient: [**parlotte1.py**](parlotte1.py).
 
 En nettoyant le fichier produit par ce premier script, et qui contenait plus de 5000 résultats, j'en ai effectué le nettoyage manuellement pour retrancher les comptes manifestement bidon. Je n'ai trouvé qu'une douzaine d'élus **potentiellement sur Parler**, ce qui est rassurant:
 
@@ -34,11 +34,11 @@ Je dis bien **potentiellement**, car après que le compte au nom du [chef conser
 
 Après avoir consulté différents comptes québécois sur Parler, celui d'Alexis Cossette-Trudel a semblé être celui qui comptait le plus d'abonnés, soit près de 25&nbsp;000.
 
-J'ai donc rédigé un deuxième script pour recueillir des informations sur tous les abonnés de M. Cossette-Trudel. Il peut être utilisé pour recueillir les *followers* de tout compte Parler, ainsi que les abonnés que ce compte suit à son tour: [**parlotte2.py**]().
+J'ai donc rédigé un deuxième script pour recueillir des informations sur tous les abonnés de M. Cossette-Trudel. Il peut être utilisé pour recueillir les *followers* de tout compte Parler, ainsi que les abonnés que ce compte suit à son tour: [**parlotte2.py**](parlotte2.py).
 
 Parmi les informations que nous retourne Parler sur un compte donné se trouve la variable ```joined```, qui nous informe du moment précis où l'abonné a joint Parler. Dans mon cas, la valeur de cette variable est ```20200726154623```, ce qui signifie que je me suis joint au réseau social le 26 juillet 2020 à 15:46:23 très précisément.
 
-Le script produit un fichier csv avec les nom, pseudonyme, biographie, *id* Parler et date d'adhésion à Parler de tous les abonnés d'un compte Parler donné (en l'occurrence, Radio-Québec): [**radioquebec.csv**]()
+Le script produit un fichier csv avec les nom, pseudonyme, biographie, *id* Parler et date d'adhésion à Parler de tous les abonnés d'un compte Parler donné (en l'occurrence, Radio-Québec): [**radioquebec.csv**](radioquebec.csv).
 
 En consultant la date d'adhésion des abonnés de Radio-Québec, on constate qu'il y a eu une véritable ruée sur Parler depuis le début de 2021. Le compte de M. Cossette-Trudel a gagné plus de 11&nbsp;000 abonnés seulement dans les 10 premiers jours de l'année! Le nombre de personnes qui le suivent a presque doublé, passant de 13&nbsp;877 à 24&nbsp;384 entre le 31 décembre 2020 et le 10 janvier 2021 vers 15h.
 
