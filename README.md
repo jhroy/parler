@@ -38,7 +38,7 @@ J'ai donc rédigé un deuxième script pour recueillir des informations sur tous
 
 Parmi les informations que nous retourne Parler sur un compte donné se trouve la variable ```joined```, qui nous informe du moment précis où l'abonné a joint Parler. Dans mon cas, la valeur de cette variable est ```20200726154623```, ce qui signifie que je me suis joint au réseau social le 26 juillet 2020 à 15:46:23 très précisément.
 
-Le script produit un fichier csv avec les nom, pseudonyme, biographie, *id* Parler et date d'adhésion à Parler de tous les abonnés d'un compte Parler donné (en l'occurrence, Radio-Québec): [**radioquebec.csv**](radioquebec.csv).
+Le script produit un fichier csv avec les nom, pseudonyme, biographie, *id* Parler et date d'adhésion à Parler de tous les abonnés d'un compte Parler donné (en l'occurrence, Radio-Québec): [**radioquebec.csv**](radioquebec.csv). Il recueille aussi l'info sur les abonnés qui sont suivis par Radio-Québec, mais je les ai retranchés du fichier csv que je partage ici.
 
 En consultant la date d'adhésion des abonnés de Radio-Québec, on constate qu'il y a eu une véritable ruée sur Parler depuis le début de 2021. Le compte de M. Cossette-Trudel a gagné plus de 11&nbsp;000 abonnés seulement dans les 10 premiers jours de l'année! Le nombre de personnes qui le suivent a presque doublé, passant de 13&nbsp;877 à 24&nbsp;384 entre le 31 décembre 2020 et le 10 janvier 2021 vers 15h.
 
