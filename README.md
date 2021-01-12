@@ -1,6 +1,6 @@
 # La «parlersphère» canadienne
 
-Le 9 janvier 2021, moins de 24 heures avant que le réseau social [Parler](https://parler.com/) ne soit [rendu inaccessible par Amazon](https://www.lemonde.fr/pixels/article/2021/01/11/parler-gab-telegram-apres-twitter-les-pro-trump-en-quete-de-nouveaux-reseaux-sociaux_6065899_4408996.html), j'ai voulu puiser le plus de contenu canadien possible de cette plateforme.
+Le 10 janvier 2021, moins de 24 heures avant que le réseau social [Parler](https://parler.com/) ne soit [rendu inaccessible par Amazon](https://www.lemonde.fr/pixels/article/2021/01/11/parler-gab-telegram-apres-twitter-les-pro-trump-en-quete-de-nouveaux-reseaux-sociaux_6065899_4408996.html), j'ai voulu puiser le plus de contenu canadien possible de cette plateforme.
 
 ### Élus canadiens
 
