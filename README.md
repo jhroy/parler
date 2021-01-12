@@ -1,6 +1,6 @@
 # La «parlersphère» canadienne
 
-Le 9 janvier 2021, moins de 24 heures avant que le réseau social [Parler](https://parler.com/) ne soit [rendu inaccessible par Amazon](https://www.lemonde.fr/pixels/article/2021/01/11/parler-gab-telegram-apres-twitter-les-pro-trump-en-quete-de-nouveaux-reseaux-sociaux_6065899_4408996.html), j'ai voulu recueillir le plus de contenu canadien possible de cette plateforme.
+Le 9 janvier 2021, moins de 24 heures avant que le réseau social [Parler](https://parler.com/) ne soit [rendu inaccessible par Amazon](https://www.lemonde.fr/pixels/article/2021/01/11/parler-gab-telegram-apres-twitter-les-pro-trump-en-quete-de-nouveaux-reseaux-sociaux_6065899_4408996.html), j'ai voulu puiser le plus de contenu canadien possible de cette plateforme.
 
 ### Élus canadiens
 
@@ -26,7 +26,7 @@ En nettoyant le fichier produit par ce premier script, et qui contenait plus de 
 | Randy Hillier          | Ontario      | Lanark--Frontenac--Kingston                  | Indépendant               | RandyHillier   |
 | Greg Ottenbreit        | Saskatchewan | Yorkton                                      | Saskatchewan Party        | GregOttenbreit |
 
-Je dis bien **potentiellement**, car après que le compte au nom du [chef conservateur Erin O'Toole](https://parler.com/profile/erinotoole) est devenu inaccessible en soirée, dimanche, j'ai posté [ceci sur Facebook](https://www.facebook.com/jhroy/posts/10157827575106218). Or, il s'avère que le compte n'est pas authentique, [selon l'attachée de presse de M. O'Toole](https://twitter.com/Melanie_Paradis/status/1348077649743278080). J'ai donc rayé la ligne sur M. O'Toole ci-dessous. Si vous consultez la capture d'écran de la cache de Google pour le compte en question ([capture de la cache de Google effectuée le 11 janvier](images/Screenshot_2021-01-11--Parler-Erin O’Toole.png)), vous constaterez que le contenu reprend les messages diffusés sur d'autres réseaux sociaux du chef conservateur et que si le compte n'est pas authentique, ce n'était pas un pastiche destiné à se moquer de lui.
+Je dis bien **potentiellement**, car après que le compte au nom du [chef conservateur Erin O'Toole](https://parler.com/profile/erinotoole) est devenu inaccessible en soirée, dimanche, j'ai posté [ceci sur Facebook](https://www.facebook.com/jhroy/posts/10157827575106218). Or, il s'avère que le compte n'est pas authentique, [selon l'attachée de presse de M. O'Toole](https://twitter.com/Melanie_Paradis/status/1348077649743278080). J'ai donc rayé la ligne sur M. O'Toole ci-dessous. Si vous consultez la capture d'écran de la cache de Google pour le compte en question ([capture de la cache de Google effectuée le 11 janvier](https://raw.githubusercontent.com/jhroy/parler/main/images/Screenshot_2021-01-11--Parler-Erin_O’Toole.png)), vous constaterez que le contenu reprend les messages diffusés sur d'autres réseaux sociaux du chef conservateur et que si le compte n'est pas authentique, ce n'était pas un pastiche destiné à se moquer de lui.
 
 ![](images/logoradioquebec.png)
 
